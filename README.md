@@ -1,11 +1,9 @@
 # Gene Expression Exploratory Data Analysis (EDA)
 
-This repository contains a simple exploratory data analysis (EDA) of a small gene expression count matrix.
+This repository presents a minimal exploratory inspection of raw gene expression count data.
 
-The goal of this project is to demonstrate how to:
-- Load gene expression data
-- Inspect basic distributions and summary statistics
-- Generate simple diagnostic plots
+The objective is to illustrate how basic distributional checks can reveal scale properties and transformation effects prior to any normalization, modeling, or dimensionality reduction.
 
-No normalization, modeling, or dimensionality reduction is performed here.
-This project focuses only on **understanding the raw data**.
+This project does not perform biological interpretation, statistical inference, or downstream analysis.
+
+The focus is exclusively on inspection of raw data structure and the effect of simple transformations.
